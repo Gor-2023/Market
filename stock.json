@@ -1,0 +1,32 @@
+{
+    "shlor": {
+        "Quantity": 7,
+        "purchase_price": 200,
+        "payment_price": 240.0
+    },
+    "boxk": {
+        "Quantity": 10,
+        "purchase_price": 100,
+        "payment_price": 120.0
+    },
+    "t": {
+        "Quantity": 5,
+        "purchase_price": 8,
+        "payment_price": 9.6
+    },
+    "ananas": {
+        "Quantity": 5,
+        "purchase_price": 600,
+        "payment_price": 720.0
+    },
+    "apricot": {
+        "Quantity": 10,
+        "purchase_price": 300,
+        "payment_price": 360.0
+    },
+    "pnduk": {
+        "Quantity": 12,
+        "purchase_price": 200,
+        "payment_price": 240.0
+    }
+}
